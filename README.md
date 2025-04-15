@@ -1,51 +1,51 @@
-### Backend Engineer | Microservices Nerd
+### Backend Engineer | Microservices Enthusiast
 
-Hey there! I’m a backend engineer obsessed with writing clean code and building systems that scale. I’m diving headfirst into microservices, cloud tech, and performance tweaks, always chasing that next big "aha!" moment. Excited to learn, experiment, and contribute to cool projects.
+Hey, I'm Bibash, a backend engineer hooked on building fast, scalable systems. I love tinkering with microservices, cloud-native tech, and performance tweaks, aiming to write code that solves problems today and scales for tomorrow while learning from every challenge.
 
 ---
 
 ## 🛠️ My Tech Toolbox
 
-**Stuff I Know Well**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker)
+**What I’m Rocking**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" height="25"> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" height="25">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" height="25">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" height="25">
 
-**Getting the Hang Of**  
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
-
----
-
-## 🚀 Side Project: CacheWarp (WIP)
-
-**CacheWarp** is my pet project—a *FastAPI* and *Redis*-powered caching middleware to make APIs snappier. It’s where I’m sharpening my skills and having fun:  
-- **Two-Tier Caching:** In-memory plus Redis for speed  
-- **Smart TTLs:** Cache that stays fresh on its own  
-- **No Overload:** Stops duplicate requests from piling up  
-- **Metrics:** *Prometheus* and *Grafana* to keep tabs on performance  
-
-[Peek at CacheWarp →](https://github.com/yourusername/cachewarp)
+**Leveling Up On**  
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis" height="25">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" height="25">
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka" height="25">
+<img src="https://img.shields.io/badge/OpenTelemetry-FF5733?style=for-the-badge&logo=opentelemetry" height="25">
 
 ---
 
-## 🌱 What I’m Digging Into
+## 🚀 Side Project: CacheWarp (Work in Progress)
 
-- Microservices and their communication styles  
-- *Kubernetes* setups, from local to production  
-- CI/CD pipelines with *GitHub Actions*  
-- *Redis* tricks for speed and efficiency  
+**CacheWarp** is my hands-on experiment—a *FastAPI*-*Redis* caching middleware to turbocharge APIs. It’s where I’m learning to balance speed, reliability, and clean code:  
+- **Hybrid Caching:** In-memory for quick hits, Redis for persistence  
+- **Dynamic TTLs:** Cache that adapts to traffic patterns  
+- **Rate Limiting:** Keeps duplicate requests in check  
+- **Observability:** *OpenTelemetry* traces with *Grafana* dashboards  
+
+[See CacheWarp in Action →](https://github.com/bibash-dev/cachewarp)
 
 ---
 
-## 🤝 Let’s Chat
+## 🌱 What I’m Exploring
+
+- Event-driven microservices with *Kafka*  
+- *Kubernetes* orchestration for resilient apps  
+- CI/CD workflows using *GitHub Actions*  
+- Distributed tracing with *OpenTelemetry*  
+
+---
+
+## 🤝 Let’s Connect
 
 Always eager to collaborate, learn from mentors, and tackle bold challenges.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 *Keep learning. Keep coding.*
