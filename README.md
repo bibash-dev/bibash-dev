@@ -22,11 +22,14 @@ Hey, I'm Bibash, a backend engineer hooked on building fast, scalable systems. I
 
 ## 🚀 Side Project: CacheWarp (Work in Progress)
 
-**CacheWarp** is my hands-on experiment—a *FastAPI*-*Redis* caching middleware to turbocharge APIs. It’s where I’m learning to balance speed, reliability, and clean code:  
-- **Hybrid Caching:** In-memory for quick hits, Redis for persistence  
-- **Dynamic TTLs:** Cache that adapts to traffic patterns  
-- **Rate Limiting:** Keeps duplicate requests in check  
-- **Observability:** *OpenTelemetry* traces with *Grafana* dashboards  
+**CacheWarp**: My deep dive into API acceleration. This FastAPI middleware blends in-memory agility with Redis durability, all while I hone the art of robust and elegant code.
+
+Here's what makes it tick:
+
+✅ **Hybrid Caching Powerhouse:** Blazing-fast in-memory (L1) for immediate wins, backed by persistent Redis (L2) for resilience.
+✅ **Intelligent TTLs:** Dynamic cache lifetimes that intelligently adapt to varying traffic demands.
+✅ **Request Deduplication:** Built-in rate limiting to efficiently manage redundant incoming requests.
+✨ **Enhanced Observability:** Leveraging OpenTelemetry for detailed tracing and insightful Grafana dashboards.  
 
 [See CacheWarp in Action →](https://github.com/bibash-dev/cachewarp)
 
