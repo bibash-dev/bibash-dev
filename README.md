@@ -18,16 +18,17 @@ Backend engineer exploring microservices and scalable systems. Currently learnin
 
 ---
 
-## 🚀 Side Project: CacheWarp (Work in Progress)
+# 🚀 Side Project: CacheWarp (Work in Progress)
 
-**CacheWarp**: Just playing around with making APIs faster! It's a FastAPI middleware that uses caching with Redis to try and speed things up. I'm still learning how to make it reliable and write good code.
+## CacheWarp: Optimizing API Performance
 
-Here's what I've got so far:
+CacheWarp is my hands-on experiment in accelerating APIs with caching middleware built on **FastAPI** and **Redis**. My goal is to make requests faster while ensuring reliability and clean code.
 
-✅ **Two-Layer Caching:** Uses in-memory (like a quick scratchpad) for fast access and Redis (like a more permanent storage) to keep things around longer.
-✅ **Smart Time Limits:** The cache tries to figure out how long to keep stuff based on how busy things are.
-✅ **Keeping Things in Check:** It tries to stop getting too many of the same requests at once.
-✨ **Watching How Things Go:** I'm trying to use Prometheus to see what's happening and Grafana to make some charts about it. Still figuring this part out!
+### Key Features:
+✅ **Two-Layer Caching** – In-memory for quick hits, Redis for persistent storage  
+✅ **Smart TTLs** – Adaptive caching that adjusts to traffic patterns  
+✅ **Rate Limiting** – Prevents excessive duplicate requests  
+✨ **Observability** – Prometheus for metrics, Grafana for visualization (work in progress)  
 
 [See CacheWarp in Action →](https://github.com/bibash-dev/cachewarp)
 
