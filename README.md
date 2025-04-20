@@ -1,8 +1,6 @@
 ### Backend Engineer | Microservices Enthusiast
 
-Hey, I'm Bibash, a backend engineer hooked on building fast, scalable systems. I love tinkering with microservices, cloud-native tech, and performance tweaks, aiming to write code that solves problems today and scales for tomorrow while learning from every challenge.
-
----
+Backend engineer exploring microservices and scalable systems. Currently learning resilient microservice design and cloud-native tech to build robust backend applications. Aiming for efficient, maintainable code and embracing the learning journey.
 
 ## 🛠️ My Tech Toolbox
 
@@ -22,14 +20,14 @@ Hey, I'm Bibash, a backend engineer hooked on building fast, scalable systems. I
 
 ## 🚀 Side Project: CacheWarp (Work in Progress)
 
-**CacheWarp**: My deep dive into API acceleration. This FastAPI middleware blends in-memory agility with Redis durability, all while I hone the art of robust and elegant code.
+**CacheWarp**: Just playing around with making APIs faster! It's a FastAPI middleware that uses caching with Redis to try and speed things up. I'm still learning how to make it reliable and write good code.
 
-Here's what makes it tick:
+Here's what I've got so far:
 
-✅ **Hybrid Caching Powerhouse:** Blazing-fast in-memory (L1) for immediate wins, backed by persistent Redis (L2) for resilience.
-✅ **Intelligent TTLs:** Dynamic cache lifetimes that intelligently adapt to varying traffic demands.
-✅ **Request Deduplication:** Built-in rate limiting to efficiently manage redundant incoming requests.
-✨ **Enhanced Observability:** Leveraging OpenTelemetry for detailed tracing and insightful Grafana dashboards.  
+✅ **Two-Layer Caching:** Uses in-memory (like a quick scratchpad) for fast access and Redis (like a more permanent storage) to keep things around longer.
+✅ **Smart Time Limits:** The cache tries to figure out how long to keep stuff based on how busy things are.
+✅ **Keeping Things in Check:** It tries to stop getting too many of the same requests at once.
+✨ **Watching How Things Go:** I'm trying to use Prometheus to see what's happening and Grafana to make some charts about it. Still figuring this part out!
 
 [See CacheWarp in Action →](https://github.com/bibash-dev/cachewarp)
 
